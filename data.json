@@ -1,0 +1,17 @@
+{
+  "id": "S-1",
+  "name": "Test School",
+  "children": [
+     {
+        "id": "s-1",
+        "name": "Test Grade",
+        "children":[
+           {
+              "name":"Test Student",
+              "id":"st-001",
+              "status":"Student has not been called yet."
+           },
+      },
+  ]
+
+}
